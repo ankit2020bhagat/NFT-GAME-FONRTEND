@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 import SelectCharacter from "./Components/SelectCharacter";
-import twitterLogo from "./assets/twitter-logo.svg";
 import Arena from "./Components/Arena";
 import LoadingIndicator from "./Components/LoadingIndicator";
 import { ethers } from "ethers";
